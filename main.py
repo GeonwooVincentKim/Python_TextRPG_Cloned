@@ -175,7 +175,6 @@ def win():
     print("You have defeated the {0}".format(enemy.name))
     print("You found %i gold" % enemy.goldgain)
     option = input(' ')
-
     start1()
 
 
